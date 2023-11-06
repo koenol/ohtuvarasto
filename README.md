@@ -1,2 +1,2 @@
 # ohtuvarasto
-https://github.com/koenol/ohtuvarasto/workflows/CI/badge.svg
+![workflow badge](https://github.com/koenol/ohtuvarasto/workflows/CI/badge.svg)
